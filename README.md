@@ -1,3 +1,5 @@
+# WORK IN PROGRESS
+
 # babel-plugin-synchronous-promise
 
 This plugin replaces `Promise` with https://www.npmjs.com/package/synchronous-promise.

@@ -1,6 +1,6 @@
 {
   "name": "babel-plugin-synchronous-promise",
-  "version": "1.0.1",
+  "version": "1.0.5",
   "description": "Transforms *Promise* to *synchronous-promise*",
   "main": "main.cjs.js",
   "module": "main.mjs.js",
