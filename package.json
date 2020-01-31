@@ -1,7 +1,7 @@
 {
-  "name": "babel-plugin-transform-promise-to-bluebird",
-  "version": "2.0.0",
-  "description": "Transforms *Promise* to *bluebird*",
+  "name": "babel-plugin-synchronous-promise",
+  "version": "1.0.1",
+  "description": "Transforms *Promise* to *synchronous-promise*",
   "main": "main.cjs.js",
   "module": "main.mjs.js",
   "devDependencies": {
@@ -16,11 +16,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chpio/babel-plugin-transform-promise-to-bluebird.git"
+    "url": "git+https://github.com/antoniopresto/babel-plugin-synchronous-promise.git"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/chpio/babel-plugin-transform-promise-to-bluebird/issues"
+    "url": "https://github.com/antoniopresto/babel-plugin-synchronous-promise/issues"
   },
-  "homepage": "https://github.com/chpio/babel-plugin-transform-promise-to-bluebird#readme"
+  "homepage": "https://github.com/antoniopresto/babel-plugin-synchronous-promise#readme"
 }
